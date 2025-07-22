@@ -1,0 +1,21 @@
+2025-07-20 16:19:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERS" not found (this database is empty); SQL statement:
+select u1_0.id_number,u1_0.address,u1_0.dob,u1_0.gender,u1_0.id_type,u1_0.name,u1_0.phone_number from users u1_0 where u1_0.id_number=? and u1_0.id_type=? [42104-214]
+2025-07-20 16:33:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERS" not found (this database is empty); SQL statement:
+select u1_0.id_number,u1_0.address,u1_0.dob,u1_0.gender,u1_0.id_type,u1_0.name,u1_0.phone_number from users u1_0 where u1_0.id_number=? and u1_0.id_type=? [42104-214]
+2025-07-20 16:33:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERS" not found (this database is empty); SQL statement:
+select u1_0.id_number,u1_0.address,u1_0.dob,u1_0.gender,u1_0.id_type,u1_0.name,u1_0.phone_number from users u1_0 where u1_0.id_number=? and u1_0.id_type=? [42104-214]
+2025-07-20 16:39:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERS" not found (this database is empty); SQL statement:
+select u1_0.id_number,u1_0.address,u1_0.dob,u1_0.gender,u1_0.id_type,u1_0.name,u1_0.phone_number from users u1_0 where u1_0.id_number=? and u1_0.id_type=? [42104-214]
+2025-07-20 16:39:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERS" not found (this database is empty); SQL statement:
+select u1_0.id_number,u1_0.address,u1_0.dob,u1_0.gender,u1_0.id_type,u1_0.name,u1_0.phone_number from users u1_0 where u1_0.id_number=? and u1_0.id_type=? [42104-214]
+2025-07-20 16:40:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERS" not found (this database is empty); SQL statement:
+select u1_0.id_number,u1_0.address,u1_0.dob,u1_0.gender,u1_0.id_type,u1_0.name,u1_0.phone_number from users u1_0 where u1_0.id_number=? and u1_0.id_type=? [42104-214]
+2025-07-20 16:44:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERS" not found (this database is empty); SQL statement:
+select u1_0.id_number,u1_0.address,u1_0.dob,u1_0.gender,u1_0.id_type,u1_0.name,u1_0.phone_number from users u1_0 where u1_0.id_number=? and u1_0.id_type=? [42104-214]
