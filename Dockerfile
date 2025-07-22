@@ -24,7 +24,7 @@ FROM openjdk:17-jdk-slim
 WORKDIR /app
 
 # Copy the JAR file from the build stage
-COPY --from=build /app/build/libs/ipp-0.0.1-SNAPSHOT.jar app.jar
+COPY --from=build /app/build/libs/jarvis-government-api-service.jar app.jar
 
 # Set environment variables and expose the port
 ENV HOST 0.0.0.0
