@@ -1,4 +1,4 @@
--- Sample Aadhar records
+-- Sample LBG records
 INSERT INTO LBG_USER_DATA (
     PHONE_NUMBER,
     PROFESSION,
@@ -11,7 +11,13 @@ VALUES
 ('9123456780', 'Data Scientist','2345678','HDFC1234','60,00,000'),
 ('8765432109', 'Product Manager','3456789','ICICI1234','70,00,000'),
 ('7654321098', 'Business Analyst','4567890','AXIS1234','80,00,000'),
-('6543210987', 'System Administrator','5678901','KOTAK1234','90,00,000');
+('+919866644487', 'Software Engineer','567890156','KOTAK1234','90,00,000'),
+('+917036183122', 'Software Engineer','123456789','SBI1234','50,00,000'),
+('+919704166906', 'Software Engineer','234567809','HDFC1234','60,00,000'),
+('+919821575407', 'Software Engineer','345678934','ICICI1234','70,00,000'),
+('+919492570337', 'Software Engineer','456789078','AXIS1234','80,00,000');
+
+
 
 
 
